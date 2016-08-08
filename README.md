@@ -1,22 +1,24 @@
-# ignitemotherboard #
+# ignitemotherboard 
 
-##Vision##
+##Vision
 Project Motherboard is an online songbook that streamlines worship preparation (and playing).
 
-##Areas##
+##Areas
 - Planning a set
 - Practicing a set
 - Live worship
 - Reference
  
-##Feature Priority##
-###P1###
+##Feature Priority
+
+###P1
 - Plain text editor
 - Instant transposing (consider creating songs in Nashville)
 - Dumb search, with some type of ranking
     - Tablet responsive
 - Password protect
-###P2###
+
+###P2
 - Smart search
 - Tags (for searching)
 - Show/hide chords
@@ -25,7 +27,8 @@ Project Motherboard is an online songbook that streamlines worship preparation (
 - View filters & sorting
 - Visually distinguishing different stanzas. Use custom Markup language for now?
 - Mobile responsive
-###P3###
+
+###P3
 - Audio archive of our live sets
 - Login credentials
 - Account privileges
