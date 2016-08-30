@@ -1,7 +1,7 @@
-# ignitemotherboard 
+# SongCloud 
 
 ##Vision
-Project Motherboard is an online songbook that streamlines worship preparation (and playing).
+SongCloud is an online songbook that streamlines worship preparation (and playing).
 
 ##Areas
 - Planning a set
