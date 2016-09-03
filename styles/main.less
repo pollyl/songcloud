@@ -1,0 +1,56 @@
+@background-color: color("red");
+@text-color: #1A237E;
+
+p{
+  color: @text-color;
+  padding: 15px;
+}
+
+.sidebar {
+    float: left;
+    padding-top: 20px;
+    margin-left: 5px;
+
+    .search-query {
+        width: 90%;
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+
+    .songItem {
+        width: 100%;
+    }
+
+    .list-group-item {
+        border-bottom-right-radius: none;
+        border-bottom-left-radius: none;
+        border-left-style: none;
+        border-right-style: none;
+    }
+
+    .list-group-item:first-child {
+        border-top-style: none;
+    }
+
+    .list-group-item:first-child {
+        border-bottom-right-radius: none;
+        border-bottom-left-radius: none;
+    }
+
+}
+
+.mainBody {
+    .navbar {
+        width: 100%;
+    }
+
+    .actionBar {
+        float: right;
+        padding: 10px;
+        margin-right: 0px;
+    }
+
+    .songText {
+        margin: 20px;
+    }
+}

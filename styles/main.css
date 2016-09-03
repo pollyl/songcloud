@@ -1,0 +1,41 @@
+p {
+  color: #1a237e;
+  padding: 15px;
+}
+.sidebar {
+  float: left;
+  padding-top: 20px;
+  margin-left: 5px;
+}
+.sidebar .search-query {
+  width: 90%;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.sidebar .songItem {
+  width: 100%;
+}
+.sidebar .list-group-item {
+  border-bottom-right-radius: none;
+  border-bottom-left-radius: none;
+  border-left-style: none;
+  border-right-style: none;
+}
+.sidebar .list-group-item:first-child {
+  border-top-style: none;
+}
+.sidebar .list-group-item:first-child {
+  border-bottom-right-radius: none;
+  border-bottom-left-radius: none;
+}
+.mainBody .navbar {
+  width: 100%;
+}
+.mainBody .actionBar {
+  float: right;
+  padding: 10px;
+  margin-right: 0px;
+}
+.mainBody .songText {
+  margin: 20px;
+}
